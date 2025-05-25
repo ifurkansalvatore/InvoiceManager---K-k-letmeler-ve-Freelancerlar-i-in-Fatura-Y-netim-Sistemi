@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+flask-login
+flask-mail
+flask-wtf
+gunicorn
+psycopg2-binary
+weasyprint
+email-validator
