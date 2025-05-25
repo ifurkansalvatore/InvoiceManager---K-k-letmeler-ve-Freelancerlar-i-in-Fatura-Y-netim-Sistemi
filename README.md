@@ -35,4 +35,3 @@ Easily create, download, and send detailed invoices with full payment tracking, 
 ```bash
 git clone https://github.com/ifurkansalvatore/InvoiceWizard.git
 cd InvoiceWizard
-![{9F535B70-5718-4424-A5D3-C2111224CFA8}](https://github.com/user-attachments/assets/3b27089f-cb3b-4935-a185-f4d8b7a5b202)
